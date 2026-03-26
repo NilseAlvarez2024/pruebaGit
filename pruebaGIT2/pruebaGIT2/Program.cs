@@ -13,6 +13,8 @@ namespace pruebaGIT2
             //hola
             string mensaje = "Hola mundo";
 
+            int numero = 0;
+
         }
     }
 }
