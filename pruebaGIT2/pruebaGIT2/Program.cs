@@ -10,7 +10,8 @@ namespace pruebaGIT2
     {
         static void Main(string[] args)
         {
-
+            //hola
+            string mensaje = "Hola mundo";
 
         }
     }
